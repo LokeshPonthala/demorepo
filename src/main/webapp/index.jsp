@@ -816,7 +816,7 @@
             
             <div class="header-icons">
                 <a href="#"><i class="far fa-user"></i></a>
-                <a href="#"><i class="far fa-heart"></i></a>
+                <a href="#"><em class="far fa-heart"></em></a>
                 <a href="#"><i class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
                 <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
             </div>
